@@ -7,8 +7,8 @@
 ## I'm an IT student in apprenticeship at Orange!
 
 - 🎓 I am a French student in IT at the [UIT of Colmar](https://www.iutcolmar.uha.fr/index.php/formations/diplomes/bachelor-universitaire-de-technologie-b-u-t-bac-3/b-u-t-reseaux-et-telecommunications/), [UHA](https://www.uha.fr/fr/index.html).
-- I'm in apprenticeship at Orange, in Schiltigheim.
-- I'm the vice-president of the [Amicale RT](https://www.instagram.com/amicale.rt/), a musician and also elected to the departemental network and communications of the [UIT of Colmar](https://www.iutcolmar.uha.fr/).
+- 💼 I'm in apprenticeship at Orange, in Schiltigheim.
+- ⚡ I'm the vice-president of the [Amicale RT](https://www.instagram.com/amicale.rt/), a musician and also elected to the departemental network and communications of the [UIT of Colmar](https://www.iutcolmar.uha.fr/).
 
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
