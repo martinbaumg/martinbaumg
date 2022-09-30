@@ -108,7 +108,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[course]: https://5martin.fr
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/c/LOMAVOIR
 [instagram]: https://instagram.com/codeSTACKr
