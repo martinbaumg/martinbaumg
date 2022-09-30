@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://5martin.fr)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm an IT student in apprenticeship at Orange!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
