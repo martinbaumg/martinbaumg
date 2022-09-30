@@ -63,14 +63,10 @@
 
 ---
 
-
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=martinbaumg&theme=highcontrast&show_icons=true&count_private=true />
 
-</details>
 
 [website]: https://5martin.fr
 [course]: https://5martin.fr
