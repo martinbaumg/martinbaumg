@@ -51,7 +51,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=martinbaumg&theme=highcontrast&show_icons=true&count_private=true)
 
-[website]: https://5martin.fr
+[website]: https://martinbaumgaertner.com
 [course]: https://5martin.fr
 [youtube]: https://youtube.com/c/LOMAVOIR
 [instagram]: https://instagram.com/codeSTACKr
