@@ -1,7 +1,7 @@
 # Hi there, I'm Martin Baumgaertner - aka [LeCodeurFou][youtube] 👋 
 
 
-[![Website](https://img.shields.io/website?label=martinbaumgaertner.com&style=for-the-badge&url=https%3A%2F%2Fmartinbaumgaertner.com)](https://martinbaumgaertner.com)
+[![Website](https://img.shields.io/website?label=https://martinbaumgaertner.com&style=for-the-badge&url=https%3A%2F%2Fhttps://martinbaumgaertner.com)](https://martinbaumgaertner.com)
 <a href="https://www.linkedin.com/in/martin-baumgaertner-b17601221" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
 
 
