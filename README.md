@@ -1,5 +1,4 @@
-# Hi there, I'm Martin Baumgaertner <- aka [LeCodeurFou][youtube]> 👋 
-[comment]: <>
+# Hi there, I'm Martin Baumgaertner [comment]: < - aka [LeCodeurFou][youtube]> 👋 
 
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/lkz6.svg)](https://betteruptime.com/?utm_source=status_badge)
 <a href="https://www.linkedin.com/in/martin-baumgaertner-b17601221" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
