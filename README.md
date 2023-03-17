@@ -1,4 +1,4 @@
-# Hi there, I'm Martin Baumgaertner - aka [LeCodeurFou][youtube] 👋 
+# Hi there, I'm Martin Baumgaertner <- aka [LeCodeurFou][youtube]> 👋 
 [comment]: <>
 
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/lkz6.svg)](https://betteruptime.com/?utm_source=status_badge)
