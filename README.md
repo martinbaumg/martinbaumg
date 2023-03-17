@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/martin-baumgaertner-b17601221" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
 
 
-## I'm an IT student in apprenticeship at Orange!
+## I'm an IT student in apprenticeship!
 
 - 🎓 I am a French student in IT at the [UIT of Colmar](https://www.iutcolmar.uha.fr/index.php/formations/diplomes/bachelor-universitaire-de-technologie-b-u-t-bac-3/b-u-t-reseaux-et-telecommunications/), [UHA](https://www.uha.fr/fr/index.html).
 - 💼 I'm in apprenticeship.
