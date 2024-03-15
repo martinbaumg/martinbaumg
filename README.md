@@ -16,9 +16,6 @@
 [![website](./img/globe-light.svg)](https://5martin.fr#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://5martin.fr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/c/LOMAVOIR#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/c/LOMAVOIR#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/martin-baumgaertner-b17601221/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/martin-baumgaertner-b17601221/#gh-dark-mode-only)
 
