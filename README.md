@@ -6,9 +6,9 @@
 
 ## I'm an IT student in apprenticeship!
 
-- 🎓 I am a French student in IT at the [UIT of Colmar](https://www.iutcolmar.uha.fr/index.php/formations/diplomes/bachelor-universitaire-de-technologie-b-u-t-bac-3/b-u-t-reseaux-et-telecommunications/), [UHA](https://www.uha.fr/fr/index.html).
+- 🎓 I am a French student in IT at the [IMT Atlantique](https://www.imt-atlantique.fr/fr).
 - 💼 I'm in apprenticeship.
-- ⚡ I'm the vice-president of the [Amicale RT](https://www.instagram.com/amicale.rt/), a musician and also elected to the departemental network and communications of the [UIT of Colmar](https://www.iutcolmar.uha.fr/).
+- ⚡ I am the owner and developer of [DayMeal](https://apps.apple.com/fr/app/daymeal/id6544802660).
 
 
 ### Connect with me:
@@ -47,7 +47,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=martinbaumg&theme=highcontrast&show_icons=true&count_private=true)
 
-[website]: https://martinbaumgaertner.com
+[DayMeal]: https://apps.apple.com/fr/app/daymeal/id6544802660
 [course]: https://5martin.fr
 [youtube]: https://youtube.com/c/LOMAVOIR
 [instagram]: https://instagram.com/codeSTACKr
